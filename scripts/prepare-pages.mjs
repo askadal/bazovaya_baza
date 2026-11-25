@@ -6,13 +6,14 @@ const client = path.resolve(import.meta.dirname, '../dist/client');
 const output = process.argv[2];
 if (!output) throw new Error('Укажите папку для публикации GitHub Pages');
 
-const [document, app, catalog] = await Promise.all([
+const [document, app, catalog, snapshot] = await Promise.all([
   readFile(path.join(client, 'index.html'), 'utf8'),
   readFile(path.join(client, 'app.js')),
   stat(path.join(client, 'catalog.json')),
+  readFile(path.join(client, 'catalog-state.json'), 'utf8').then(JSON.parse),
 ]);
 const scriptSource = /src="app\.js(?:\?[^"]*)?"/;
-if (!document.includes('</head>') || !scriptSource.test(document) || !catalog.isFile() || !catalog.size) {
+if (!document.includes('</head>') || !scriptSource.test(document) || !catalog.isFile() || !catalog.size || !snapshot.reactionIds || !snapshot.overrides) {
   throw new Error('В dist/client отсутствует точка входа или данные каталога');
 }
 

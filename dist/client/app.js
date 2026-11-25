@@ -237,14 +237,13 @@ function applyCuration(data){
  products.sort((a,b)=>group(a.id)-group(b.id)||(featured.has(a.id)&&featured.has(b.id)?featured.get(a.id)-featured.get(b.id):tail.has(a.id)&&tail.has(b.id)?tail.get(a.id)-tail.get(b.id):baseOrder.get(a.id)-baseOrder.get(b.id)));
 }
 async function refreshCuration(rerender=true){
- if(publicPages)return;
- const response=await fetch('/api/catalog-state',{cache:'no-store'});if(!response.ok)throw Error('Не удалось загрузить правки каталога');
+ const response=await fetch(publicPages?'catalog-state.json':'/api/catalog-state',{cache:'no-store'});if(!response.ok)throw Error('Не удалось загрузить правки каталога');
  applyCuration(await response.json());
  if(state.category&&!products.some(p=>p.section===state.section&&p.category===state.category))state.category='';
  if(rerender){render({preserveCount:true});if(currentProduct){const dt=[...document.querySelectorAll('#productDetail dt')].find(el=>el.textContent==='Категория');if(dt?.nextElementSibling)dt.nextElementSibling.textContent=lookup.get(currentProduct)?.category||'';}if($('#collectionDialog').open)renderSelection();}
 }
 window.CatalogApp={escape:esc,toast,reactionTypes,getProduct:id=>lookup.get(id),currentProduct:()=>currentProduct,openProduct:showDetail,rerender:render,refreshCuration,getTaxonomy:()=>catalogTaxonomy,sectionLabel:s=>s==='Городская мебель'?'Городские МАФ':s==='Другие изделия'?'Другое':s};
-window.addEventListener('focus',()=>{if(products.length)refreshCuration().catch(error=>console.warn(error.message));});
+window.addEventListener('focus',()=>{if(!publicPages&&products.length)refreshCuration().catch(error=>console.warn(error.message));});
 async function initializeDeveloper(session){
  if(!session?.canEdit)return;
  await new Promise((resolve,reject)=>{const script=document.createElement('script');script.src='/api/admin/ui.js';script.onload=resolve;script.onerror=()=>reject(Error('Не удалось загрузить режим разработчика'));document.head.append(script);});
