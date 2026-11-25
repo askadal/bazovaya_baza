@@ -1,0 +1,63 @@
+{
+  "manufacturer": "Мегаполис",
+  "checkedAt": "2026-11-16",
+  "source": "https://megapolisgroup.spb.ru",
+  "discovery": "https://megapolisgroup.spb.ru/product-sitemap.xml",
+  "discovered": 589,
+  "imported": 582,
+  "errors": [
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6116/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6117/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6119/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6120/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6122/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6121/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://megapolisgroup.spb.ru/product/art-6126/",
+      "error": "HTTP 404"
+    }
+  ],
+  "omissions": [
+    "Portfolio, collections, blog articles and category landing pages are not product records."
+  ],
+  "scope": "All product URLs in the public product sitemap, including winter decoration.",
+  "categories": {
+    "Праздничное оформление": 290,
+    "Арт-объекты": 18,
+    "Качели": 24,
+    "Шезлонги": 92,
+    "Парклеты": 19,
+    "Площадки для собак": 12,
+    "Скамейки": 21,
+    "Навесы и перголы": 42,
+    "Велопарковки": 7,
+    "Столы": 14,
+    "Освещение": 9,
+    "Урны": 22,
+    "Другое": 4,
+    "Подиумы": 5,
+    "Остановки": 3
+  },
+  "withPrice": 0,
+  "withImage": 580,
+  "withDimensions": 563,
+  "withMaterials": 509
+}

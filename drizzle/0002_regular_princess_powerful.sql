@@ -1,0 +1,1 @@
+ALTER TABLE `catalog_edits` ADD `simp` integer DEFAULT 0 NOT NULL;

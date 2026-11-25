@@ -1,0 +1,30 @@
+{
+  "checkedAt": "2026-11-18",
+  "manufacturers": [
+    "igratex",
+    "robinzon",
+    "kenguru",
+    "shelby"
+  ],
+  "total": 3285,
+  "downloaded": 2613,
+  "failed": [
+    {
+      "url": "https://robinzon-maf.ru/sites/default/files/field_photosproduct/4u4001_1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://robinzon-maf.ru/sites/default/files/field_photosproduct/4u3002_1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://robinzon-maf.ru/sites/default/files/field_photosproduct/4u3003_1.png",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://robinzon-maf.ru/sites/default/files/field_photosproduct/4u3001_1.png",
+      "error": "HTTP 404"
+    }
+  ],
+  "retriedSuccessfully": 1
+}

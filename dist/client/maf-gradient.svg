@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" preserveAspectRatio="none">
+ <defs>
+  <linearGradient id="color" x1="0" y1="0" x2="0" y2="800" gradientUnits="userSpaceOnUse">
+   <stop offset="0" stop-color="#ff00ff"/>
+   <stop offset=".25" stop-color="#ff00ff"/>
+   <stop offset=".375" stop-color="#00c2cb"/>
+   <stop offset=".625" stop-color="#00c2cb"/>
+   <stop offset=".75" stop-color="#ff00ff"/>
+   <stop offset="1" stop-color="#ff00ff"/>
+  </linearGradient>
+  <filter id="uneven" x="0" y="0" width="600" height="800" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+   <feTurbulence type="fractalNoise" baseFrequency=".005 .009" numOctaves="2" seed="11" result="noise"/>
+   <feDisplacementMap in="SourceGraphic" in2="noise" scale="150" xChannelSelector="R" yChannelSelector="G"/>
+  </filter>
+ </defs>
+ <path d="M-200-200H800V1000H-200Z" fill="url(#color)" filter="url(#uneven)"/>
+</svg>

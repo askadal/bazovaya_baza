@@ -1,0 +1,5 @@
+Source: emoji-datasource-apple 16.0.0, https://github.com/iamcal/emoji-data
+Original files: img/apple/64/{1f60d,1f31a,1f648,1fae0,1f485}.png
+Artwork: Copyright Apple Inc. The upstream README states Apple images are not licensed for commercial usage.
+The accompanying MIT license covers emoji-data software; it does not relicense Apple artwork.
+Files copied without modification; no runtime CDN requests.

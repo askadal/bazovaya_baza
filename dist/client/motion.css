@@ -1,0 +1,14 @@
+/* Only the script opts into the entrance; no scroll lock or hidden fallback UI. */
+.site-entering .intro h1{visibility:hidden;position:relative;z-index:10;width:max-content;transform-origin:0 0;will-change:transform}
+.site-entering-ready .intro h1{visibility:visible}
+.entrance-letter{display:inline-block}
+.site-entering .intro p,.site-entering #catalog,.site-entering #collectionButton{opacity:0;pointer-events:none}
+.site-entering #catalog{transform-origin:top center}
+.site-entering .developer-toggle{opacity:0;pointer-events:none}
+.press-lines{position:fixed;z-index:10000;overflow:visible;pointer-events:none;color:var(--ink,#141414)}
+.press-lines line{fill:none;stroke:currentColor;stroke-width:1.1;vector-effect:non-scaling-stroke;stroke-linecap:round}
+@media(prefers-reduced-motion:reduce){
+ .site-entering .intro h1{visibility:visible;transform:none!important}
+ .site-entering .intro p,.site-entering #catalog,.site-entering #collectionButton,.site-entering .developer-toggle{opacity:1;pointer-events:auto}
+ .press-lines{display:none;animation:none}
+}

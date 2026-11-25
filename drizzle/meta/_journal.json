@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1795068648124,
+      "tag": "0000_bored_proteus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1795093134602,
+      "tag": "0001_lean_steve_rogers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1795444237779,
+      "tag": "0002_regular_princess_powerful",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1795447795699,
+      "tag": "0003_brown_unus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1795620086315,
+      "tag": "0004_github_owner_sessions",
+      "breakpoints": true
+    }
+  ]
+}

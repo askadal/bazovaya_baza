@@ -1,0 +1,90 @@
+[
+  {
+    "id": "megapolis",
+    "name": "Мегаполис",
+    "url": "https://megapolisgroup.spb.ru/",
+    "status": "578 из 585 уникальных страниц",
+    "note": "Семь страниц из карты сайта возвращают 404. Они не включены."
+  },
+  {
+    "id": "aira",
+    "name": "Айра",
+    "url": "https://aira.ru/produktsiya/",
+    "status": "Все найденные изделия",
+    "note": "2 709 товарных страниц сверены с картой сайта. Включены сезонное оформление и модульные здания."
+  },
+  {
+    "id": "mafmarket",
+    "name": "МАФ маркет",
+    "url": "https://mafmarket.ru/catalog/"
+  },
+  {
+    "id": "adanat",
+    "name": "Аданат",
+    "url": "https://adanatgroup.ru/katalog/",
+    "status": "Все найденные изделия",
+    "note": "Из 2 272 адресов каталога выделено 1 990 отдельных изделий; страницы категорий и серий не считаются товарами."
+  },
+  {
+    "id": "novalur",
+    "name": "Новалур",
+    "url": "https://novalur.ru/"
+  },
+  {
+    "id": "punto",
+    "name": "Punto Group",
+    "url": "https://puntogroup.ru/"
+  },
+  {
+    "id": "leber",
+    "name": "Leber",
+    "url": "https://leber.ru/ru"
+  },
+  {
+    "id": "richter",
+    "name": "Рихтер",
+    "url": "https://richterrus.ru/catalog/"
+  },
+  {
+    "id": "detkki",
+    "name": "Деткки",
+    "url": "https://detkki.ru/"
+  },
+  {
+    "id": "newhorizons",
+    "name": "Новые горизонты",
+    "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/"
+  },
+  {
+    "id": "igratex",
+    "name": "Игратекс",
+    "url": "https://igratex.ru/catalog"
+  },
+  {
+    "id": "taiga",
+    "name": "Тайга",
+    "url": "https://playtaiga.ru/"
+  },
+  {
+    "id": "robinzon",
+    "name": "Робинзон",
+    "url": "https://robinzon-maf.ru/"
+  },
+  {
+    "id": "kenguru",
+    "name": "Кенгуру",
+    "url": "https://kenguru.pro/"
+  },
+  {
+    "id": "shelby",
+    "name": "Шелби",
+    "url": "https://shelby.ru/"
+  },
+  {
+    "id": "delo",
+    "name": "Delo",
+    "url": "https://delo-design.com/chairs",
+    "status": "Выбранные модели",
+    "note": "ЙО, КУЛ и четыре варианта НРА по выбору пользователя; 9 моделей, без дублей по цветам."
+  }
+]

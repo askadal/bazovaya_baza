@@ -1,0 +1,1092 @@
+{
+  "manufacturer": "МАФ маркет",
+  "checkedAt": "2026-11-16",
+  "source": "https://mafmarket.ru",
+  "discovery": "Public sitemap and all linked category/series pages; individual model cards with share anchors",
+  "pages": 205,
+  "candidates": 1366,
+  "imported": 1366,
+  "withImage": 1366,
+  "withPrice": 0,
+  "withDimensions": 1348,
+  "errors": [
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/rivage/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/rivage/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/pixel/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/pixel/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/bank-150/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/bank-150/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/portiqoa/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/portiqoa/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/vera-solo/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/vera-solo/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/woody/",
+      "error": "500 https://mafmarket.ru/catalog/Skami/woody/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/tably/",
+      "error": "500 https://mafmarket.ru/catalog/stoly/tably/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/nanuk/",
+      "error": "500 https://mafmarket.ru/catalog/Urny-i-pepelnitsy/nanuk/"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/pin/",
+      "error": "500 https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/pin/"
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://mafmarket.ru/catalog/Navigatsiya/",
+      "reason": "No individual model cards"
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-edu/",
+      "reason": "No individual model cards"
+    }
+  ],
+  "paginationPages": [],
+  "coverage": [
+    {
+      "url": "https://mafmarket.ru/catalog/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/Bloomy/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/Sedan/",
+      "models": 19,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/Sedan%20Solo/",
+      "models": 41,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/Landscape%20Compact%20Next/",
+      "models": 10,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/emau/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/linfa/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/morse/",
+      "models": 19,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/morse-dot/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/muny/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/stack/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/tiide/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/urban-islands/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/vltau/",
+      "models": 9,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/port/",
+      "models": 13,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/lago/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/landscape-compact/",
+      "models": 10,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/polygood/",
+      "models": 9,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/aviela/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/bistrot/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/bohem/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/blocq/",
+      "models": 9,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/miela/",
+      "models": 13,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/reforma/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/shape/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/sinus/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/bank-70/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/conics/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/k-mann/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/kubik/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/prima/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/tetris/",
+      "models": 13,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/penrouz/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/preva-urbana/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/limpido/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/manta/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/metaball/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/vera/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/eblocq/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/construqta/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/satellite/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/woody-scorpio/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/stack-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/tiide-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/bistrot-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/bohem-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/lago-table/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/muny-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/orbit/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/pixel-table/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/prima-table/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/rautster/",
+      "models": 33,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/vera-solo-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/vera-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/blocq-table/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/conics-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/cross-picnic/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/kubik-table/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/polygood-table/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/woody-table/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/Bloomy/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/Chan/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/Pilot/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/Sampo/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/pure/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/crystal/",
+      "models": 19,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/utyl/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/valet/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/nanuk-next/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/quinbin/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/better/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/minium/",
+      "models": 22,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/polygood/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/prax/",
+      "models": 11,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/lena/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/kubik/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/bloomy/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/Rider/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/gomez/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/omega/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/eight/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/bikepark/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/lotlimit/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/trot/",
+      "models": 32,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/bikeblocq/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/edgetyre/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/ocus/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/polygood-velo/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/simple/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/velo/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/continuo/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/mei/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/meandre/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/elk/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/navesy-dlya-veloparkovok/aureo-velo/",
+      "models": 16,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/navesy-dlya-veloparkovok/edge-velo/",
+      "models": 16,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/d-po/",
+      "models": 27,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/visor/",
+      "models": 15,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/pinecone/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/platform/",
+      "models": 10,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/ufo/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ostanovki-obshchestvennogo-transporta/aureo/",
+      "models": 22,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ostanovki-obshchestvennogo-transporta/geomere/",
+      "models": 18,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ostanovki-obshchestvennogo-transporta/nubo/",
+      "models": 19,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-dlya-kureniya/aureo-smoke/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-dlya-kureniya/edge-smoke/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/gredica/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/polys/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/conics/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/florium/",
+      "models": 11,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/kveta/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/muny/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/pixel/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/malageno/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/tanit/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/tetris/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/tua/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/typo/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/polygood/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/penrouz/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/metaball/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/kurt/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/grand/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/dish/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/arbottura/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/como/",
+      "models": 16,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/cuadrado/",
+      "models": 30,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/porta/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/sinus/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/trygo/",
+      "models": 9,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/donat/",
+      "models": 12,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/lot/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/mielon/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/doro/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/elias/",
+      "models": 10,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/isac/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/buul/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/guud/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/crayola/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/moos/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/pausita/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/ruud/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/vaal/",
+      "models": 36,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/ursus/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/vesuvio/",
+      "models": 1,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdeniya/cydlimit/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdeniya/doro/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdeniya/lotlimit/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/fog-ring/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/Forma%20Optima/",
+      "models": 10,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/Tempus/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/Vita/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/Ludus/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/gol/",
+      "models": 20,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/lett/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/balance-equip/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/calisthenics/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/cardiotrainer/",
+      "models": 2,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/ce/",
+      "models": 36,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/clamp/",
+      "models": 25,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/factory/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/gce/",
+      "models": 9,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/gcew-/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/multi-trainer/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/muscle-building/",
+      "models": 7,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/norad/",
+      "models": 25,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/sport-equip/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/sw/",
+      "models": 20,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/wos/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/flowerswing/",
+      "models": 5,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/merry-go-round/",
+      "models": 18,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/music-acoustic/",
+      "models": 23,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/salto/",
+      "models": 14,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/sand-water/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/seesaws/",
+      "models": 6,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/surf-balance/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/swings/",
+      "models": 16,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/pioner/",
+      "models": 8,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/opory-osveshcheniya/noga/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/opory-osveshcheniya/roga/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Skami/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/stoly/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Urny-i-pepelnitsy/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Veloparkovki/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/navesy-dlya-veloparkovok/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ostanovki-obshchestvennogo-transporta/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-dlya-kureniya/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/vazony/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/reshyetki-dlya-derevev/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdayushchie-stolbiki/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/ograzhdeniya/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Installyatsii-i-skulptury/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/sportivnoe-ulichnoe-oborudovanie/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/detskoe-igrovoe-oborudovanie/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/opory-osveshcheniya/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/Navigatsiya/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-dream/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-edu/",
+      "models": 0,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-meet/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-rest/",
+      "models": 4,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-screen/",
+      "models": 13,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-snack/",
+      "models": 3,
+      "pagination": []
+    },
+    {
+      "url": "https://mafmarket.ru/catalog/pavilony-navesy-i-pergoly/cuby/cuby-study/",
+      "models": 2,
+      "pagination": []
+    }
+  ],
+  "limitations": [
+    "Prices were not published in model cards. Material tags reflect explicit configuration options, not a fixed selected variant."
+  ],
+  "retryPages": []
+}

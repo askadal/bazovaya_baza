@@ -1,0 +1,1 @@
+ALTER TABLE `catalog_edits` ADD `bottom` integer DEFAULT 0 NOT NULL;

@@ -1,0 +1,48 @@
+name: Publish MAF catalog
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dist/client/**'
+      - 'scripts/prepare-pages.mjs'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/configure-pages@v5
+      - name: Prepare the public catalog
+        run: node scripts/prepare-pages.mjs "$RUNNER_TEMP/maf-pages"
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/maf-pages
+
+  deploy:
+    needs: prepare
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy catalog
+        id: deployment
+        uses: actions/deploy-pages@v4

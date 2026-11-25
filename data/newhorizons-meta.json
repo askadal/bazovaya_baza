@@ -1,0 +1,168 @@
+{
+  "manufacturer": "Новые горизонты",
+  "url": "https://www.newhorizons.ru/",
+  "checkedAt": "2026-11-18",
+  "discovered": 729,
+  "processed": 729,
+  "count": 691,
+  "duplicates": 1,
+  "errors": [],
+  "excluded": [
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/dizaynerskie--ploshchadki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/detskie-poznavatelnye-ploshchadki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/seriya-tantsuyushchie-domiki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/igrovye-ploshchadki-lazaliya/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/igrovye-ploshchadki-stroyka/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/igrovye-ploshchadki-bashni/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/seriya-eko/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/inklyuzivnye-ploshchadki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/seriya-klassik/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/seriya-krokha/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/seriya-kubiki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/seriynye-igrovye-kompleksy/seriya-metallik/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/kacheli/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/interaktivnye-iactive/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/street-trampolines/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/kachalki-karuseli-balansiry/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/igrovye-elementy/pesochnitsy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/bouldering/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/oborudovanie-dlya-vorkauta/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/oborudovanie-dlya-parkura/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/senior-sport/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/sportivnye/igry-s-myachom-i-areny/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/skameyki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/stoliki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/besedki-i-pavilony/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/veloparkovki-i-velosipednye-stoyki/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/parkovaya-mebel/urny-i-pepelnitsy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/dopolnitelnoe-oborudovanie/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/dopolnitelnoe-oborudovanie/labirinty-dlya-ulitsy/",
+      "reason": "No individual product card"
+    },
+    {
+      "url": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/dopolnitelnoe-oborudovanie/igrovaya-mebel-step2/",
+      "reason": "No individual product card"
+    }
+  ],
+  "redirects": [
+    {
+      "from": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/dizaynerskie--ploshchadki/igrovoy-kompleks-dvizhenie/",
+      "to": "https://www.newhorizons.ru/catalog/igrovye-prostranstva-dlya-ulitsy/detskie-igrovye-kompleksy/dizaynerskie-igrovie-kompleksy/dizaynerskie--ploshchadki/igrovoy-kompleks-chill-aut/"
+    }
+  ],
+  "status": "Все найденные товарные карточки",
+  "note": "Импортирована только ветка уличного оборудования. Категории и внутреннее оборудование исключены."
+}

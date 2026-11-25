@@ -1,0 +1,17 @@
+data/cache-*/
+node_modules/
+*.log
+.DS_Store
+
+data/*-qa.png
+data/qa-selection.csv
+
+.openai/thumbnail-progress.json
+
+.sites-runtime/
+.wrangler/
+.openai/*.sqlite*
+.dev.vars*
+.env*
+/*.sqlite*
+dist/server/

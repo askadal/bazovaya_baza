@@ -1,0 +1,826 @@
+{
+  "manufacturer": "Punto Group",
+  "url": "https://puntogroup.ru/",
+  "checkedAt": "2026-11-18",
+  "count": 642,
+  "discovered": 809,
+  "processed": 809,
+  "sitemapCatalogUrls": 784,
+  "errors": [
+    {
+      "url": "https://puntogroup.ru/catalog/naves-doodle/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/stulya/shezlong_azhurnyy/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/stulya/stul_azhurnyy2/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/skulptury_i_artobekty/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/skulptury_i_artobekty/sadovaya_skulptura_leaf2/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/2817/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_fit/sportivnye_ramy_punto_fit/727/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_fit/dopolnitelnoe_oborudovanie_dlya_punto_fit/",
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/sportivnaya_ploshchadka_puntoblok_x25/",
+      "error": "HTTP 404"
+    }
+  ],
+  "skipped": [
+    {
+      "url": "https://puntogroup.ru/catalog/",
+      "title": "Каталог",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/doodle-punto/",
+      "title": "Doodle PuntoGroup x Wowhaus",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/spline_punto_x_core/",
+      "title": "Коллекция уличной мебели Spline by PuntoGroup x Core",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/",
+      "title": "Уличное спортивное оборудование",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_sportivnye_kompleksy/",
+      "title": "Спортивные комплексы PuntoGroup",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/dopolnitelnoe_oborudovanie_dlya_punto_fit/",
+      "title": "Дополнительное оборудование для Пунто Фит/Punto Fit",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/",
+      "title": "Воркаут-площадки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/punto_parkour/",
+      "title": "Площадки для паркура",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/panna_futbol/",
+      "title": "Панна-футбол",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/rama_russkiy_nindzya/",
+      "title": "Рама Русский Ниндзя/Punto Ninja",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/sportivnaya_ploshchadka_power_zone/",
+      "title": "Спортивная площадка Пауэр Зон/Power Zone",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/sportivnaya_ploshchadka_puntoblok_line/",
+      "title": "Спортивная площадка ПУНТОБЛОК Лайн/PUNTOBLOK Line",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/sportivnaya_ploshchadka_puntoblok_x8s/",
+      "title": "Спортивная площадка ПУНТОБЛОК X8S/PUNTOBLOK X8S",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/sportivnaya_ploshchadka_puntofit_x8s/",
+      "title": "Спортивная площадка ПУНТОФИТ X8S/PUNTOFIT X8S",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/",
+      "title": "Уличные тренажёры",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/bokserskie-stojki/",
+      "title": "Боксёрские стойки и груши",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/brusya/",
+      "title": "Брусья",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/detskie/",
+      "title": "Детские тренажёры",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/kardio-trenazhery/",
+      "title": "Кардиотренажёры",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/komplekty-trenazherov/",
+      "title": "Комплект уличных тренажёров",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/lavki-skamejki/",
+      "title": "Лавки и скамейки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/perekladiny/",
+      "title": "Перекладины",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/silovye-trenazhery/",
+      "title": "Силовые тренажёры",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-blagoustrojstva/",
+      "title": "Тренажёры для благоустройства",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-dvorov-zhk/",
+      "title": "Тренажёры для дворов и ЖК",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-invalidov/",
+      "title": "Тренажёры для инвалидов",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-naberezhnyh/",
+      "title": "Тренажёры для набережных",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-nog/",
+      "title": "Тренажёры для ног",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-parkov/",
+      "title": "Тренажёры для парков и скверов",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-pressa/",
+      "title": "Тренажёры для пресса",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/ruki-plechi/",
+      "title": "Тренажёры для рук и плечевого пояса",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-sanatoriev/",
+      "title": "Тренажёры для санаториев и баз отдыха",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-gto/",
+      "title": "Тренажёры для сдачи ГТО",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-sport-ploshchadok/",
+      "title": "Тренажёры для спортивных площадок",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-stadionov/",
+      "title": "Тренажёры для стадионов",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/ulichnye_trenazhyery/dlya-shkol-vuzov/",
+      "title": "Тренажёры для школ и университетов",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/basketbolnye-ploshchadki/",
+      "title": "Баскетбольные спортивные площадки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/volejbolnye-ploshchadki/",
+      "title": "Волейбольные спортивные площадки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/sport-oborudovaniye/detskie-ploshchadki/",
+      "title": "Детские спортивные площадки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/",
+      "title": "Городская мебель",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/",
+      "title": "Урны уличные",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_alphabet_urny/",
+      "title": "Урны уличные коллекция Alphabet",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_dallas_urni/",
+      "title": "Урны уличные коллекция Dallas",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_edo/",
+      "title": "Урны уличные коллекция EDO",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_papillon_urni/",
+      "title": "Урны уличные коллекция Papillon",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_pazzle_urni/",
+      "title": "Урны уличные коллекция Pazzle",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_roller/",
+      "title": "Урны уличные коллекция Roller",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_vega_urni/",
+      "title": "Урны уличные коллекция Vega",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/urny/kollektsiya_verona_urni/",
+      "title": "Урны уличные коллекция Verona",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/",
+      "title": "Скамейки уличные",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/drugie_skameyki/",
+      "title": "Другие скамейки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/punto_x_karim_collection/",
+      "title": "Коллекция уличных скамеек Punto x Karim",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_alphabet/",
+      "title": "Скамейки уличные коллекция Alphabet",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/lingotto_i_aria_koll/",
+      "title": "Скамейки уличные коллекция Aria",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/boomerang-collection/",
+      "title": "Скамейки уличные коллекция Boomerang",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_boston/",
+      "title": "Скамейки уличные коллекция Boston",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_curve/",
+      "title": "Скамейки уличные коллекция Curve",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_flow/",
+      "title": "Скамейки уличные коллекция Flow",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_fly/",
+      "title": "Скамейки уличные коллекция Fly",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_infinity/",
+      "title": "Скамейки уличные коллекция Infinity",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_istanbul/",
+      "title": "Скамейки уличные коллекция Istanbul",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_joy/",
+      "title": "Скамейки уличные коллекция JOY",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_plint/",
+      "title": "Скамейки уличные коллекция Plint",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_ref/",
+      "title": "Скамейки уличные коллекция REF",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_shade/",
+      "title": "Скамейки уличные коллекция Shade",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_star/",
+      "title": "Скамейки уличные коллекция Star",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_summer/",
+      "title": "Скамейки уличные коллекция Summer",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kollektsiya_techno/",
+      "title": "Скамейки уличные коллекция Techno",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skulptura/",
+      "title": "Арт-объекты",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/",
+      "title": "Радиусные скамейки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/kollektsiya_boston_rad/",
+      "title": "Радиусные скамейки коллекция Boston",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/kollektsiya_curve_rad/",
+      "title": "Радиусные скамейки коллекция Curve",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/kollektsiya_joy_rad/",
+      "title": "Радиусные скамейки коллекция JOY",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/kollektsiya_infiniti_rad/",
+      "title": "Радиусные скамейки коллекция Infiniti",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/radiusnye_skameyki/kollektsiya_star_rad/",
+      "title": "Радиусные скамейки коллекция Star",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/navesy_besedki_i_pergoly/",
+      "title": "Навесы, перголы, беседки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/veloparkovki/",
+      "title": "Велопарковки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/navigatsiya/",
+      "title": "Информационные стенды",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/pristvolnye_reshetki/",
+      "title": "Приствольные решетки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/komplekty_mebeli/",
+      "title": "Комплекты мебели",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/amfiteatry/",
+      "title": "Амфитеатры",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/amfiteatry/kollektsiya_lingotto_amphitheaters/",
+      "title": "Амфитеатры коллекция Lingotto",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/vazony/",
+      "title": "Уличные вазоны и кашпо",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/vazony/kollektsiya_edo_vases/",
+      "title": "Вазоны уличные коллекция EDO",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/vazony/kollektsiya_alphabet_vases/",
+      "title": "Вазоны уличные коллекция Alphabet",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/vazony/kollektsiya_joy_vases/",
+      "title": "Вазоны уличные коллекция JOY",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/zontiki-ulichnye/",
+      "title": "Уличные зонтики для благоустройства",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/konteynernye_ploshchadki_dlya_musora/",
+      "title": "Контейнерные площадки для мусора",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/korziny_dlya_kondicionerov/",
+      "title": "Корзины для кондиционеров",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/ostanovochnye_kompleksy_1/",
+      "title": "Остановочные комплексы",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/",
+      "title": "Парковые шезлонги",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/punto_x_karim_sh/",
+      "title": "Коллекция парковых шезлонгов Punto x Karim",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_aria_sh/",
+      "title": "Парковые шезлонги коллекция Aria",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_boomerang_sh/",
+      "title": "Парковые шезлонги коллекция Boomerang",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_boston_sh/",
+      "title": "Парковые шезлонги коллекция Boston",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_fly_sh/",
+      "title": "Парковые шезлонги коллекция Fly",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_infinity_sh/",
+      "title": "Парковые шезлонги коллекция Infinity",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_istanbul_sh/",
+      "title": "Парковые шезлонги коллекция Istanbul",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_joy_sh/",
+      "title": "Парковые шезлонги коллекция JOY",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/shezlongi/kollektsiya_summer_sh/",
+      "title": "Парковые шезлонги коллекция Summer",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/ploshchadki_dlya_vygula_sobak/",
+      "title": "Площадки для выгула собак",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/podpornye_stenky/",
+      "title": "Подпорные стенки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/razdevalki/",
+      "title": "Уличные раздевалки для общественных пространств",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/skami_na_podvesakh/",
+      "title": "Скамьи на подвесах",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/",
+      "title": "Уличные столы",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/punto_x_karim_stoly/",
+      "title": "Коллекция уличных столов Punto x Karim",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_boston_stoly/",
+      "title": "Столы уличные коллекция Boston",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_curve_table/",
+      "title": "Столы уличные коллекция Curve",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_joy_stoly/",
+      "title": "Столы уличные коллекция JOY",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_milano/",
+      "title": "Столы уличные коллекция Milano",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_plint_table/",
+      "title": "Столы уличные коллекция Plint",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/table/kollektsiya_summer_stoly/",
+      "title": "Столы уличные коллекция Summer",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/dekor_paneli/",
+      "title": "Фасадные декоративные панели",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/",
+      "title": "Другое",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/korziny_dlya_konditsionerov/",
+      "title": "Корзины для кондиционеров",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/zontiki/",
+      "title": "Зонтики",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/dekorativnye_paneli/",
+      "title": "Фасадные панели",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/kaskadnoe_ozelenenie/",
+      "title": "Каскадное озеленение",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/ostanovochnye_kompleksy/",
+      "title": "Остановочные комплексы",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/piknikovye_zony/",
+      "title": "Пикниковые зоны",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/podpornye_steny/",
+      "title": "Подпорные стенки",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_design/drugoe/roof/",
+      "title": "Руф/Roof",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/",
+      "title": "Мебель Хорека/HoReCa PuntoGroup",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/stoly/",
+      "title": "Барные столы",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/stulya/",
+      "title": "Барные стулья",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/kresla/",
+      "title": "Скамейки и кресла",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/fast_food/",
+      "title": "Мебель для фаст фуда",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_group/tovary_pervoy_neobkhodimosti/",
+      "title": "Товары первой необходимости",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/corten_style/",
+      "title": "Кортен Стиль/Corten style",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/detskie_kacheli/",
+      "title": "Детские качели",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/maf_dlya_proekta_moya_shkola/",
+      "title": "МАФ для проекта «Моя Школа»",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/verona/",
+      "title": "Верона/Verona",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/smart_tekhnologii/",
+      "title": "Умная спортивная площадка",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/doodle/",
+      "title": "Дудл/Doodle",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/infinity/",
+      "title": "Инфинити/Infinity",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/kenguru/",
+      "title": "Уличное спортивное оборудование KENGURU PRO",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/punto_x_karim/",
+      "title": "Пунто и Карим/Punto x Karim",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/spetspredlozheniya_sklada/",
+      "title": "Спецпредложение склада",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/spline/",
+      "title": "СПЛАЙН/SPLINE",
+      "reason": "No individual product detail"
+    },
+    {
+      "url": "https://puntogroup.ru/catalog/forrest/",
+      "title": "Форрест/Forrest",
+      "reason": "No individual product detail"
+    }
+  ],
+  "redirects": [
+    {
+      "from": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/Workout_ploshchadka_1/",
+      "to": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/workout_ploshchadka_1/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/Workout_ploshchadka_3/",
+      "to": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/workout_ploshchadka_3/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/Workout_ploshchadka_4/",
+      "to": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/workout_ploshchadka_4/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/Workout_ploshchadka_2/",
+      "to": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/workout_ploshchadka_2/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/Workout_ploshchadka_5/",
+      "to": "https://puntogroup.ru/catalog/sport-oborudovaniye/gotovye_sportivnye_ploshchadki/workout_ploshchadka_5/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/urny/urna_Dallas_dlya_razdelnogo_sbora_musora_korpus_3sht/",
+      "to": "https://puntogroup.ru/catalog/punto_design/urny/urna_dallas_dlya_razdelnogo_sbora_musora_korpus_3sht/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/urny/urna_Berlin1/",
+      "to": "https://puntogroup.ru/catalog/punto_design/urny/urna_berlin1/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/lavka_infinityPG602500116/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/lavka_infinitypg602500116/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kreslo_povorotnoe_techno_OSC06001085/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/kreslo_povorotnoe_techno_osc06001085/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_tree_OSC73215000/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_tree_osc73215000/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_tree_OSC73315000/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_tree_osc73315000/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_flash_OSC01215000/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_flash_osc01215000/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_flash_OSC01220000/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_flash_osc01220000/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_welling_OSC14120000/",
+      "to": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/skameyka_welling_osc14120000/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/skameyki_ulichnye/tribuna_kolledzh/",
+      "to": "https://puntogroup.ru/catalog/punto_design/amfiteatry/tribuna_kolledzh/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/shezlongi/shezlong_Keen/",
+      "to": "https://puntogroup.ru/catalog/punto_design/shezlongi/shezlong_keen/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/shezlongi/shezlong_Kinetic/",
+      "to": "https://puntogroup.ru/catalog/punto_design/shezlongi/shezlong_kinetic/"
+    },
+    {
+      "from": "https://puntogroup.ru/catalog/punto_design/table/stol_Klover/",
+      "to": "https://puntogroup.ru/catalog/punto_design/table/stol_klover/"
+    }
+  ],
+  "duplicateProducts": 18,
+  "status": "Частичное покрытие",
+  "note": "Отдельные товарные страницы с микроразметкой Product и артикулом/идентификатором. Категории и коллекции исключены. Цены не используются."
+}

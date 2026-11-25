@@ -1,0 +1,1432 @@
+{
+  "manufacturer": "Аданат",
+  "source": "https://adanatgroup.ru",
+  "sitemap": "https://adanatgroup.ru/sitemap.xml",
+  "checkedAt": "2026-11-16",
+  "candidates": 2272,
+  "imported": 1990,
+  "skipped": [
+    {
+      "url": "https://adanatgroup.ru/katalog/",
+      "skip": "Категория или серия",
+      "name": "Вся продукция"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/",
+      "skip": "Категория или серия",
+      "name": "Спортивное оборудование"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/vazony-i-cvetochnicy/",
+      "skip": "Категория или серия",
+      "name": "Вазоны и цветочницы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/veloparkovki/",
+      "skip": "Категория или серия",
+      "name": "Велопарковки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/oborudovanie-dlya-sadov-i-shkol/",
+      "skip": "Категория или серия",
+      "name": "Веранды для детского сада"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/",
+      "skip": "Категория или серия",
+      "name": "Детское игровое оборудование"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/zabory-i-ograzhdeniya/",
+      "skip": "Категория или серия",
+      "name": "Заборы и ограждения"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/informacionnye-stendy/",
+      "skip": "Категория или серия",
+      "name": "Информационные стенды"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/",
+      "skip": "Категория или серия",
+      "name": "Качели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/",
+      "skip": "Категория или серия",
+      "name": "Контейнерные площадки для мусора"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/",
+      "skip": "Категория или серия",
+      "name": "Навесы и перголы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ostanovki-obshestvennogo-transporta/",
+      "skip": "Категория или серия",
+      "name": "Остановки общественного транспорта"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/otdyh/",
+      "skip": "Категория или серия",
+      "name": "Отдых"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/",
+      "skip": "Категория или серия",
+      "name": "Парклеты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parkovochnye-stolbiki/",
+      "skip": "Категория или серия",
+      "name": "Парковочные столбики"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ploshadki-dlya-sobak/",
+      "skip": "Категория или серия",
+      "name": "Площадки для собак"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/pristvolnye-reshetki-i-ograzhdeniya-dlya-dereva/",
+      "skip": "Категория или серия",
+      "name": "Приствольные решетки и ограждения для дерева"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/",
+      "skip": "Категория или серия",
+      "name": "Скамейки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/",
+      "skip": "Категория или серия",
+      "name": "Столы уличные"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/tablichki-i-ukazateli/",
+      "skip": "Категория или серия",
+      "name": "Указатели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/umnaya-gorodskaya-mebel/",
+      "skip": "Категория или серия",
+      "name": "Умная городская мебель"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/",
+      "skip": "Категория или серия",
+      "name": "Урны"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/shezlongi-i-lezhaki/",
+      "skip": "Категория или серия",
+      "name": "Шезлонги и лежаки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/prepyatstviya-i-stenki/",
+      "skip": "Категория или серия",
+      "name": "Препятствия и стенки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/eko-stil-workout/",
+      "skip": "Категория или серия",
+      "name": "ЭКО стиль"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/balansiry/",
+      "skip": "Категория или серия",
+      "name": "Балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-domiki/",
+      "skip": "Категория или серия",
+      "name": "Детские домики"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-igrovye-kompleksy/",
+      "skip": "Категория или серия",
+      "name": "Детские игровые комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-karuseli/",
+      "skip": "Категория или серия",
+      "name": "Детские карусели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-kacheli/",
+      "skip": "Категория или серия",
+      "name": "Детские качели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-lazalki/",
+      "skip": "Категория или серия",
+      "name": "Детские лазалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-mini-platformy/",
+      "skip": "Категория или серия",
+      "name": "Детские мини-платформы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/igrovaya-mebel/",
+      "skip": "Категория или серия",
+      "name": "Игровая мебель"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/obuchenie-razvitie-igra/",
+      "skip": "Категория или серия",
+      "name": "Обучение Развитие Игра"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/igry-s-peskom/",
+      "skip": "Категория или серия",
+      "name": "Игры с песком и водой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/kanatnye-dorogi-eco/",
+      "skip": "Категория или серия",
+      "name": "Канатные дороги"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/kachalki-balansiry/",
+      "skip": "Категория или серия",
+      "name": "Качалки-балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/polosy-prepyatstvij/",
+      "skip": "Категория или серия",
+      "name": "Полосы препятствий"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/pruzhinnye-kachalki/",
+      "skip": "Категория или серия",
+      "name": "Пружинные качалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/elementy-dlya-geoplastiki/",
+      "skip": "Категория или серия",
+      "name": "Элементы для геопластики"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/batuty/",
+      "skip": "Категория или серия",
+      "name": "Батуты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/",
+      "skip": "Категория или серия",
+      "name": "Игровые башни"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/oborudovanie-dlya-obrazovatelnuh-uchregdenii/",
+      "skip": "Категория или серия",
+      "name": "Веранды для детского сада"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/gorki/",
+      "skip": "Категория или серия",
+      "name": "Горки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskij-sport/",
+      "skip": "Категория или серия",
+      "name": "Детский спорт"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/inklyzivnoe-oborudovanie/",
+      "skip": "Категория или серия",
+      "name": "Инклюзивное оборудование"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/",
+      "skip": "Категория или серия",
+      "name": "Из металла и пластика"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/kanatnye-kompleksy/",
+      "skip": "Категория или серия",
+      "name": "Канатные комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/mebel-dlya-detskih-ploshadok/",
+      "skip": "Категория или серия",
+      "name": "Мебель для детских площадок"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/muzykalnye-instrumenty/",
+      "skip": "Категория или серия",
+      "name": "Музыкальные инструменты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/tarzanki-monorelsy/",
+      "skip": "Категория или серия",
+      "name": "Тарзанки / Монорельсы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskie-tematicheskie-kompleksy-metall-plastik/",
+      "skip": "Категория или серия",
+      "name": "Тематические комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/",
+      "skip": "Категория или серия",
+      "name": "ЭКО стиль"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/balansiry-metall/",
+      "skip": "Категория или серия",
+      "name": "Балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/detskie-igrovye-kompleksy-metall-plastic/",
+      "skip": "Категория или серия",
+      "name": "Детские игровые комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/detskie-karuseli-metall/",
+      "skip": "Категория или серия",
+      "name": "Детские карусели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/kacheli/",
+      "skip": "Категория или серия",
+      "name": "Детские качели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/detskie-lazalki-metall-plastic/",
+      "skip": "Категория или серия",
+      "name": "Детские лазалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/obuchenie-razvitie-igra/",
+      "skip": "Категория или серия",
+      "name": "Обучение Развитие Игра"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/igry-s-myachom/",
+      "skip": "Категория или серия",
+      "name": "Игры с мячом"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/igry-s-peskom-metall/",
+      "skip": "Категория или серия",
+      "name": "Игры с песком"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/kachalki-balansiry-metall/",
+      "skip": "Категория или серия",
+      "name": "Качалки-балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskoe-oborudovanie-iz-metalla-i-plastika/pruzhinnye-kachalki-metall/",
+      "skip": "Категория или серия",
+      "name": "Пружинные качалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/",
+      "skip": "Категория или серия",
+      "name": "Отдельностоящее оборудование"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/",
+      "skip": "Категория или серия",
+      "name": "Уличная мебель"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/brusya/",
+      "skip": "Категория или серия",
+      "name": "Брусья"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/",
+      "skip": "Категория или серия",
+      "name": "Шахматные столы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/tenisnye-stoly/",
+      "skip": "Категория или серия",
+      "name": "Теннисные столы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/turniki/",
+      "skip": "Категория или серия",
+      "name": "Турники"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/igry-s-myachom/",
+      "skip": "Категория или серия",
+      "name": "Игры с мячом"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/skami-dlya-pressa/",
+      "skip": "Категория или серия",
+      "name": "Скамьи для пресса"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/rukoxody/",
+      "skip": "Категория или серия",
+      "name": "Рукоходы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/sportivnye-kompleksy/",
+      "skip": "Категория или серия",
+      "name": "Спортивные комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/obuchenie-razvitie-igra/",
+      "skip": "Категория или серия",
+      "name": "Обучение Развитие Игра"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/gorki/",
+      "skip": "Категория или серия",
+      "name": "Горки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/detskie-lazalki/",
+      "skip": "Категория или серия",
+      "name": "Детские лазалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/igry-s-myachom/",
+      "skip": "Категория или серия",
+      "name": "Игры с мячом"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/igry-s-peskom-i-vodoj/",
+      "skip": "Категория или серия",
+      "name": "Игры с песком и водой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/karuseli/",
+      "skip": "Категория или серия",
+      "name": "Карусели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/batuty/",
+      "skip": "Категория или серия",
+      "name": "Батуты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/pruzhinnye-kachalki/",
+      "skip": "Категория или серия",
+      "name": "Пружинные качалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/detskie-kacheli/",
+      "skip": "Категория или серия",
+      "name": "Детские качели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/kachalki-balansiry/",
+      "skip": "Категория или серия",
+      "name": "Качалки-балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/muzykalnye-instrumenty/",
+      "skip": "Категория или серия",
+      "name": "Музыкальные инструменты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/mebel-dlya-detskix-ploshhadok/",
+      "skip": "Категория или серия",
+      "name": "Мебель для детских площадок"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/otdelnostoyashhee-oborudovanie/balansiry/",
+      "skip": "Категория или серия",
+      "name": "Балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/horeca/",
+      "skip": "Категория или серия",
+      "name": "Мебель для HoReCa"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/korabli/",
+      "skip": "Категория или серия",
+      "name": "Корабли"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/",
+      "skip": "Категория или серия",
+      "name": "Из металла"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/art-obekty/",
+      "skip": "Категория или серия",
+      "name": "Арт-объекты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/art-obekty/",
+      "skip": "Категория или серия",
+      "name": "Арт-объекты"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/oborudovanie-dlya-gto/",
+      "skip": "Категория или серия",
+      "name": "Оборудование для ГТО"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/oborudovanie-dlya-programmy-moya-shkola/",
+      "skip": "Категория или серия",
+      "name": "Оборудование для программы «Моя школа»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/parkur/",
+      "skip": "Категория или серия",
+      "name": "Паркур"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/konczepczii/",
+      "skip": "Категория или серия",
+      "name": "Концепции"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/tochki-otdyxa/",
+      "skip": "Категория или серия",
+      "name": "Точки отдыха"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/iz-metalla/s-bokserskimi-meshkami-udarnye/",
+      "skip": "Категория или серия",
+      "name": "С боксерскими мешками (ударные)"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/nauchnye-detskie-ploshhadki/",
+      "skip": "Категория или серия",
+      "name": "Научные детские площадки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/ulichnye-trenazhyory/",
+      "skip": "Категория или серия",
+      "name": "Уличные тренажёры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-gorod/",
+      "skip": "Категория или серия",
+      "name": "Серия «Город»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-ellips/",
+      "skip": "Категория или серия",
+      "name": "Серия «Эллипс»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/urna/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бонн»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/kontejnernaya-ploshadka-bunker-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бункер»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/kontejnernyj-shkaf-modul/",
+      "skip": "Категория или серия",
+      "name": "Серия «Модуль»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-oazis/",
+      "skip": "Категория или серия",
+      "name": "Серия «Оазис»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-oazis-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Оазис»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-yug/",
+      "skip": "Категория или серия",
+      "name": "Серия «Юг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-pegas/",
+      "skip": "Категория или серия",
+      "name": "Серия «Пегас»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/kontejnernaya-ploshadka-eko/",
+      "skip": "Категория или серия",
+      "name": "Серия «Эко»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-vecherniy-dmitrov/",
+      "skip": "Категория или серия",
+      "name": "Серия «Вечерний Дмитров»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/kontejnernyj-shkaf-blok-kompozit/",
+      "skip": "Категория или серия",
+      "name": "Серия «Блок композит»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/seriya-promo/",
+      "skip": "Категория или серия",
+      "name": "Серия «Промо»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-portal-/",
+      "skip": "Категория или серия",
+      "name": "Серия «Портал»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-kub_/",
+      "skip": "Категория или серия",
+      "name": "Серия «Куб»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-piramida-/",
+      "skip": "Категория или серия",
+      "name": "Серия «Пирамида»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ploshadki-dlya-sobak/iskusstvennoe-prepyatstvie-dlya-sobak/",
+      "skip": "Категория или серия",
+      "name": "Серия «Искусственное препятствие для собак»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/shahmatnyj-stol-lotos/",
+      "skip": "Категория или серия",
+      "name": "Серия «Шахматный стол «Лотос»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/shahmatnyj-stol-turnir-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Шахматный стол «Турнир»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-omega-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Омега»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-garda-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Гарда»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/naves-liana-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лиана»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/naves-palma-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Пальма»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-stil-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Стиль»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-krug-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Круг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-orion-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Орион»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-arka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Арка»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-seriya-omega/",
+      "skip": "Категория или серия",
+      "name": "Серия «Омега»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-kacheli-raduga/",
+      "skip": "Категория или серия",
+      "name": "Серия «Радуга»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-karakurt/",
+      "skip": "Категория или серия",
+      "name": "Серия «Каракурт»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/kacheli-krug-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Круг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-3/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 3 с подсветкой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-7-s-podsvetkoj/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 7.2 с подсветкой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/vazony-i-cvetochnicy/cvetochnica-alba/",
+      "skip": "Категория или серия",
+      "name": "Серия «Альба»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-4/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 4 с подсветкой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-1/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 1"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-estel/",
+      "skip": "Категория или серия",
+      "name": "Серия «Эстель»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-6-2-s-podsvetkoy/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 6.2 с подсветкой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/urna-chempion/",
+      "skip": "Категория или серия",
+      "name": "Серия «Чемпион»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/urna-kvadro/",
+      "skip": "Категория или серия",
+      "name": "Серия «Квадро»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/urna-lotos-seriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лотос»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/urna-stella/",
+      "skip": "Категория или серия",
+      "name": "Серия «Стелла»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-botanika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Ботаника»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-zigzag/",
+      "skip": "Категория или серия",
+      "name": "Серия «Зигзаг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-krug/",
+      "skip": "Категория или серия",
+      "name": "Серия «Круг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-deli/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дели»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-noga/",
+      "skip": "Категория или серия",
+      "name": "Серия «Нога»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-flagman/",
+      "skip": "Категория или серия",
+      "name": "Серия «Флагман»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-mozaika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Мозаика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-fort/",
+      "skip": "Категория или серия",
+      "name": "Серия «Форт»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-rubin/",
+      "skip": "Категория или серия",
+      "name": "Серия «Рубин»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-tehno/",
+      "skip": "Категория или серия",
+      "name": "Серия «Техно»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-plyushiha/",
+      "skip": "Категория или серия",
+      "name": "Серия «Плющиха»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-galka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Галька»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-ekonom/",
+      "skip": "Категория или серия",
+      "name": "Серия «Эконом 2»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-priroda/",
+      "skip": "Категория или серия",
+      "name": "Серия «Природа»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya_vladivostok/",
+      "skip": "Категория или серия",
+      "name": "Серия «Владивосток»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-tribuna/",
+      "skip": "Категория или серия",
+      "name": "Серия «Трибуна»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-duga/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дуга»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/skamejka-gorka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Горка»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-london/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лондон»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-gloriya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Глория»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-lotos/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лотос»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-skarlet/",
+      "skip": "Категория или серия",
+      "name": "Серия «Скарлет»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-naberezhnaya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Набережная»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-lidiya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лидия»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/skamejka-zvezda/",
+      "skip": "Категория или серия",
+      "name": "Серия «Звезда»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-ladya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Ладья»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/skamejka-zodiak/",
+      "skip": "Категория или серия",
+      "name": "Серия «Зодиак»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/betonnoe-modulnoe-sidene/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бетонное модульное сиденье»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-penek/",
+      "skip": "Категория или серия",
+      "name": "Серия «Пенек»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-bishtajn/",
+      "skip": "Категория или серия",
+      "name": "Серия «Биштайн»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-anapa/",
+      "skip": "Категория или серия",
+      "name": "Серия «Анапа»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-strong/",
+      "skip": "Категория или серия",
+      "name": "Серия «Стронг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-festival/",
+      "skip": "Категория или серия",
+      "name": "Серия «Фестиваль»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-amfiteatr/",
+      "skip": "Категория или серия",
+      "name": "Серия «Амфитеатр»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-boks/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бокс»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-vernisazh/",
+      "skip": "Категория или серия",
+      "name": "Серия «Вернисаж»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-bagdad/",
+      "skip": "Категория или серия",
+      "name": "Серия «Багдад»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/kontejnernaya-ploshadka-panel/",
+      "skip": "Категория или серия",
+      "name": "Серия «Панель»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergola-raduga/",
+      "skip": "Категория или серия",
+      "name": "Серия «Радуга»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-moncza/",
+      "skip": "Категория или серия",
+      "name": "Серия «Монца»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-chajka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Чайка»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-kub-eko/",
+      "skip": "Категория или серия",
+      "name": "Серия «Куб» ЭКО"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-avrora/",
+      "skip": "Категория или серия",
+      "name": "Серия «Аврора»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-skandika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Скандика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-andromeda/",
+      "skip": "Категория или серия",
+      "name": "Серия «Андромеда»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-kolczo/",
+      "skip": "Категория или серия",
+      "name": "Серия «Кольцо»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-teremok/",
+      "skip": "Категория или серия",
+      "name": "Серия «Теремок»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-drezden/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дрезден»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-parallel/",
+      "skip": "Категория или серия",
+      "name": "Серия «Параллель»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-briz/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бриз»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-bruno/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бруно»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-shkolnaya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Школьная»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-miks/",
+      "skip": "Категория или серия",
+      "name": "Серия «Микс»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-myunxen/",
+      "skip": "Категория или серия",
+      "name": "Серия «Мюнхен»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-neapol/",
+      "skip": "Категория или серия",
+      "name": "Серия «Неаполь»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/shezlongi-i-lezhaki/seriya-mistral/",
+      "skip": "Категория или серия",
+      "name": "Серия «Мистраль»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-beg/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бэг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/kanatnye-kompleksy/seriya-piramidy/",
+      "skip": "Категория или серия",
+      "name": "Серия «Царь горы»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-volny/",
+      "skip": "Категория или серия",
+      "name": "Серия «Волны» МАФ"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/pristvolnye-reshetki-i-ograzhdeniya-dlya-dereva/seriya-korsar/",
+      "skip": "Категория или серия",
+      "name": "Серия «Корсар»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-germes/",
+      "skip": "Категория или серия",
+      "name": "Серия «Гермес»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-aelita/",
+      "skip": "Категория или серия",
+      "name": "Серия «Аэлита»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-sochi/",
+      "skip": "Категория или серия",
+      "name": "Серия «Сочи»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-novaja-volna/",
+      "skip": "Категория или серия",
+      "name": "Серия «Новая волна»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-dub/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дуб»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-rostov/",
+      "skip": "Категория или серия",
+      "name": "Серия «Ростов»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-zmejka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Змейка»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-protej/",
+      "skip": "Категория или серия",
+      "name": "Серия «Протей»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-grand/",
+      "skip": "Категория или серия",
+      "name": "Серия «Гранд»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-edem/",
+      "skip": "Категория или серия",
+      "name": "Серия «Эдем»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-lissabon/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лиссабон»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-budapesht/",
+      "skip": "Категория или серия",
+      "name": "Серия «Будапешт»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/seriya-barni/",
+      "skip": "Категория или серия",
+      "name": "Серия «Барни»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-orion/",
+      "skip": "Категория или серия",
+      "name": "Серия «Орион»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-bremen/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бремен»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-babls/",
+      "skip": "Категория или серия",
+      "name": "Серия «Баблс», «Банан»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/detskie-tematicheskie-kompleksy-metall-plastik/seriya-volny/",
+      "skip": "Категория или серия",
+      "name": "Серия «Волны»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-kolomenskie/",
+      "skip": "Категория или серия",
+      "name": "Серия «Коломенские»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-palermo/",
+      "skip": "Категория или серия",
+      "name": "Серия «Палермо»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-7-1-bez-navesa/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 7.1 без навеса"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-41/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 4.1 без навеса"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip-6-1-bez-navesa/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 6.1 без навеса"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-yolki/",
+      "skip": "Категория или серия",
+      "name": "Серия «Ёлки»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-siena/",
+      "skip": "Категория или серия",
+      "name": "Серия «Сиена»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip6-bez-podsvetki/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 6 без подсветки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/parklet-tip7/",
+      "skip": "Категория или серия",
+      "name": "Парклет Тип 7 без подсветки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/konczepczii/seriya-rayony-kvartaly/",
+      "skip": "Категория или серия",
+      "name": "Районы-кварталы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/konczepczii/seriya-city/",
+      "skip": "Категория или серия",
+      "name": "Сити"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/seriya-sfery/",
+      "skip": "Категория или серия",
+      "name": "Серия «Сферы»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/tochka-otdyxa-tip-1/",
+      "skip": "Категория или серия",
+      "name": "Точка отдыха Тип 1"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/parklety/tochka-otdyxa-tip-2/",
+      "skip": "Категория или серия",
+      "name": "Точка отдыха Тип 2"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-grecziya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Греция»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/kontejnernye-ploshadki/bunker-perfolist/",
+      "skip": "Категория или серия",
+      "name": "Серия «Бункер» Перфолист"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-dinamika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Динамика» ЭКО"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/2000DFF4-5C85-2466-83B9-4880E65FF98B/",
+      "skip": "Категория или серия",
+      "name": "Серия «Палермо»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/vazony-i-cvetochnicy/seriya-barselona/",
+      "skip": "Категория или серия",
+      "name": "Серия «Барселона»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-podkova/",
+      "skip": "Категория или серия",
+      "name": "Серия «Подкова»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-dubna/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дубна»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/seriya-gambit/",
+      "skip": "Категория или серия",
+      "name": "Серия «Гамбит»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/pristvolnye-reshetki-i-ograzhdeniya-dlya-dereva/seriya-alegra/",
+      "skip": "Категория или серия",
+      "name": "Серия «Алегра»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-goliaf/",
+      "skip": "Категория или серия",
+      "name": "Серия «Голиаф»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-dinamika-lesa/",
+      "skip": "Категория или серия",
+      "name": "Серия «Динамика» леса"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/seriya-barni-lazalki/",
+      "skip": "Категория или серия",
+      "name": "Серия «Барни» лазалки"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/konczepczii/seriya-kosmos/",
+      "skip": "Категория или серия",
+      "name": "Космос"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-palma-kopiya-ot-19052026-211223/",
+      "skip": "Категория или серия",
+      "name": "Серия «Пальма Флора»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/seriya-sibirika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Сибирика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-forum/",
+      "skip": "Категория или серия",
+      "name": "Серия «Форум»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/vazony-i-cvetochnicy/seriya-veresk/",
+      "skip": "Категория или серия",
+      "name": "Серия «Вереск»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-troya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Троя»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/seriya-derevenka/",
+      "skip": "Категория или серия",
+      "name": "Серия «Деревенька»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-dubna-klassika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дубна Классика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-dubna-klassika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дубна Классика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-praga/",
+      "skip": "Категория или серия",
+      "name": "Серия «Прага»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-ampir/",
+      "skip": "Категория или серия",
+      "name": "Серия «Ампир»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/cacheli/seriya-arfa/",
+      "skip": "Категория или серия",
+      "name": "Серия «Арфа»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/pergoly-seriya-dubna/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дубна»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/igrovye-bashni-ot-5-let/seriya-dinamika-cveta/",
+      "skip": "Категория или серия",
+      "name": "Серия «Динамика цвета»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/navesy-i-pergoly/seriya-botkinskie/",
+      "skip": "Категория или серия",
+      "name": "Серия «Боткинские»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-lidiya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лидия»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/seriya-shaxmatnyy-stol-krug/",
+      "skip": "Категория или серия",
+      "name": "Серия «Шахматный стол «Круг»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/sport/shaxmatnye-stoly/seriya-shahmatniy-stol-lidiya/",
+      "skip": "Категория или серия",
+      "name": "Серия «Лидия»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/urny-ulichnye/seriya-krakov/",
+      "skip": "Категория или серия",
+      "name": "Серия «Краков»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-stoly/seriya-gorizontal/",
+      "skip": "Категория или серия",
+      "name": "Серия «Горизонталь»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-dubna-klassika/",
+      "skip": "Категория или серия",
+      "name": "Серия «Дубна Классика»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-nastilov-dlya-podpornyh-stenok/",
+      "skip": "Категория или серия",
+      "name": "Серия настилов для подпорных стенок"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/ulichnaya-mebel/ulichnye-skameiki/seriya-konstruktor/",
+      "skip": "Категория или серия",
+      "name": "Серия «Конструктор»"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-igrovye-kompleksy/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские игровые комплексы"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-kacheli/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские качели из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/igry-s-peskom/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Комплексы из робинии для игры с песком и водой"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/balansiry/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/pruzhinnye-kachalki/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Пружинные качалки из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-domiki/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские домики из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/kachalki-balansiry/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Качалки-балансиры"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/korabli/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Корабли из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-lazalki/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские лазалки из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/obuchenie-razvitie-igra/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Обучение Развитие Игра"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-karuseli/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские карусели"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/kanatnye-dorogi-eco/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Канатные дороги"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/igrovaya-mebel/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Игровая мебель из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/polosy-prepyatstvij/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Полосы препятствий из робинии"
+    },
+    {
+      "url": "https://adanatgroup.ru/katalog/detskoe-igrovoe-oborudovanie/eko-stil/detskie-mini-platformy/wood/robiniya/",
+      "skip": "Категория или серия",
+      "name": "Детские мини-платформы из робинии"
+    }
+  ],
+  "errors": [],
+  "notes": [
+    "Цены отсутствуют в открытых карточках.",
+    "Размеры и материалы относятся к опубликованному изделию; доступные варианты комплектации могут отличаться.",
+    "3D-файлы требуют входа на сайте производителя; они не скачивались."
+  ],
+  "completed": 2272,
+  "totalProductPages": 1990,
+  "priceCount": 0,
+  "withImage": 1990,
+  "withDimensions": 1952,
+  "withMaterials": 1875
+}

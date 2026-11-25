@@ -1,0 +1,61 @@
+{
+  "manufacturer": "Айра",
+  "source": "https://aira.ru/produktsiya/",
+  "checkedAt": "2026-11-16",
+  "imported": 2709,
+  "priceCount": 0,
+  "imageCount": 2709,
+  "dimensionsCount": 2653,
+  "materialsCount": 856,
+  "sitemapUrls": 2779,
+  "sourceStats": [
+    {
+      "url": "https://aira.ru/produktsiya/detskie-ploshchadki/",
+      "count": 516
+    },
+    {
+      "url": "https://aira.ru/produktsiya/malye-arkhitekturnye-formy/",
+      "count": 953
+    },
+    {
+      "url": "https://aira.ru/produktsiya/",
+      "count": 1469
+    },
+    {
+      "url": "https://aira.ru/produktsiya/sports-equipment/",
+      "count": 78
+    },
+    {
+      "url": "https://aira.ru/produktsiya/aira-homes/",
+      "count": 40
+    },
+    {
+      "url": "https://aira.ru/produktsiya/tur-derevni/",
+      "count": 12
+    },
+    {
+      "url": "https://aira.ru/produktsiya/art-obekty/",
+      "count": 80
+    },
+    {
+      "url": "https://aira.ru/produktsiya/gorodskie-prazdniki/",
+      "count": 258
+    },
+    {
+      "url": "https://aira.ru/produktsiya/novogodnee-oformlenie/",
+      "count": 657
+    },
+    {
+      "url": "https://aira.ru/produktsiya/osveshchenie/",
+      "count": 92
+    },
+    {
+      "url": "https://aira.ru/produktsiya/malye-arkhitekturnye-formy/inklyuzivnaya-mebel/",
+      "count": 23
+    }
+  ],
+  "errors": [],
+  "missingFromCatalog": [],
+  "scope": "All product cards from catalog and each top-level public catalog section, including seasonal decoration and modular buildings. No product descriptions copied.",
+  "robotsChecked": true
+}

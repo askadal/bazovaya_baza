@@ -1,0 +1,396 @@
+[
+  {
+    "id": "delo-yochair",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Стул ЙО",
+    "url": "https://delo-design.com/yochair",
+    "image": "images/delo/yochair.jpg",
+    "thumbnail": "images/delo/yochair.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3936-6536-4136-a364-613434353533/yo.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3936-6536-4136-a364-613434353533/yo.jpg",
+    "sourceCategory": "Стулья и кресла / Уличная мебель",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 17500,
+    "sku": null,
+    "dimensions": "Ширина: 530 мм; Глубина: 540 мм; Высота: 790 мм; Высота сиденья: 450 мм",
+    "materials": [
+      "Сталь"
+    ],
+    "description": "Уличная мебель Delo со стальным каркасом, цинкосодержащим грунтом и порошковой окраской.",
+    "specifications": {
+      "Ширина": "530 мм",
+      "Глубина": "540 мм",
+      "Высота": "790 мм",
+      "Высота сиденья": "450 мм",
+      "Каркас": "Стальная труба Ø18 мм и пруток Ø6 мм; цинкосодержащий грунт; порошковое полимерное покрытие.",
+      "Вес": "5 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.ru/d/yXrdVKJcuHF8uw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3665-6561-4434-a332-643265336263/__2.png"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-yoarm",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Стул ЙО с подлокотниками",
+    "url": "https://delo-design.com/yoarm",
+    "image": "images/delo/yoarm.jpg",
+    "thumbnail": "images/delo/yoarm.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3162-6464-4438-a564-363134303531/yo_arms.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3162-6464-4438-a564-363134303531/yo_arms.jpg",
+    "sourceCategory": "Стулья и кресла / Уличная мебель",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 20000,
+    "sku": null,
+    "dimensions": "Ширина: 530 мм; Глубина: 540 мм; Высота: 790 мм; Высота сиденья: 450 мм",
+    "materials": [
+      "Сталь"
+    ],
+    "description": "Уличная мебель Delo со стальным каркасом, цинкосодержащим грунтом и порошковой окраской.",
+    "specifications": {
+      "Ширина": "530 мм",
+      "Глубина": "540 мм",
+      "Высота": "790 мм",
+      "Высота сиденья": "450 мм",
+      "Каркас": "Стальная труба Ø18 мм и пруток Ø6 мм; цинкосодержащий грунт; порошковое полимерное покрытие.",
+      "Вес": "5,8 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.ru/d/yXrdVKJcuHF8uw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild6632-6535-4234-b563-313036616230/74479914_1.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-yobar",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Барный стул ЙО",
+    "url": "https://delo-design.com/yobar",
+    "image": "images/delo/yobar.jpg",
+    "thumbnail": "images/delo/yobar.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild6134-6466-4363-a538-333636383835/__.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild6134-6466-4363-a538-333636383835/__.jpg",
+    "sourceCategory": "Стулья и кресла / Уличная мебель",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 22000,
+    "sku": null,
+    "dimensions": "Ширина: 565 мм; Глубина: 540 мм; Высота: 920 мм; Высота сиденья: 750 мм",
+    "materials": [
+      "Сталь"
+    ],
+    "description": "Уличная мебель Delo со стальным каркасом, цинкосодержащим грунтом и порошковой окраской.",
+    "specifications": {
+      "Ширина": "565 мм",
+      "Глубина": "540 мм",
+      "Высота": "920 мм",
+      "Высота сиденья": "750 мм",
+      "Каркас": "Стальная труба Ø18 мм и пруток Ø6 мм; цинкосодержащий грунт; порошковое полимерное покрытие.",
+      "Вес": "6,5 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.ru/d/mw-8XV2lsULJUQ"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3836-6534-4862-a564-336162353234/__.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-yolounge",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Кресло ЙО",
+    "url": "https://delo-design.com/yolounge",
+    "image": "images/delo/yolounge.jpg",
+    "thumbnail": "images/delo/yolounge.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild6437-3132-4164-a666-656464636432/__.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild6437-3132-4164-a666-656464636432/__.jpg",
+    "sourceCategory": "Стулья и кресла / Уличная мебель",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 24000,
+    "sku": null,
+    "dimensions": "Ширина: 665 мм; Глубина: 680 мм; Высота: 625 мм; Высота сиденья: 370 мм",
+    "materials": [
+      "Сталь"
+    ],
+    "description": "Уличная мебель Delo со стальным каркасом, цинкосодержащим грунтом и порошковой окраской.",
+    "specifications": {
+      "Ширина": "665 мм",
+      "Глубина": "680 мм",
+      "Высота": "625 мм",
+      "Высота сиденья": "370 мм",
+      "Каркас": "Стальная труба Ø18 мм и пруток Ø6 мм; цинкосодержащий грунт; порошковое полимерное покрытие.",
+      "Вес": "6,7 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.ru/d/c4T2Kzr0Bq-Cog"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3734-3733-4430-b433-333731626138/__.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-kul",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Стул КУЛ",
+    "url": "https://delo-design.com/kul",
+    "image": "images/delo/kul.jpg",
+    "thumbnail": "images/delo/kul.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3235-3761-4035-b563-636231326630/photo.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3235-3761-4035-b563-636231326630/photo.jpg",
+    "sourceCategory": "Стулья и кресла / Уличная мебель",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 17500,
+    "sku": null,
+    "dimensions": "Ширина: 530 мм; Глубина: 680 мм; Высота: 795 мм; Высота сиденья: 450 мм",
+    "materials": [
+      "Сталь"
+    ],
+    "description": "Уличная мебель Delo со стальным каркасом, цинкосодержащим грунтом и порошковой окраской.",
+    "specifications": {
+      "Ширина": "530 мм",
+      "Глубина": "680 мм",
+      "Высота": "795 мм",
+      "Высота сиденья": "450 мм",
+      "Каркас": "Стальная труба Ø18 мм и пруток Ø6 мм; цинкосодержащий грунт; порошковое полимерное покрытие.",
+      "Вес": "8 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.ru/d/ydRmBZPKcGJ_oA"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3431-3064-4436-a632-306462306638/_.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-nra",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Стул НРА",
+    "url": "https://delo-design.com/nra",
+    "image": "images/delo/nra.jpg",
+    "thumbnail": "images/delo/nra.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild6363-3734-4462-b335-346531393833/nra_2_copy.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild6363-3734-4462-b335-346531393833/nra_2_copy.jpg",
+    "sourceCategory": "Стулья и кресла / НРА",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 23000,
+    "sku": null,
+    "dimensions": "Ширина: 400 мм; Глубина: 475 мм; Высота: 700 мм; Высота сиденья: 450 мм",
+    "materials": [
+      "Сталь",
+      "Берёзовая фанера"
+    ],
+    "description": "Модель серии НРА со стальным каркасом и фанерным сиденьем. Окраска каркаса и сиденья в один цвет.",
+    "specifications": {
+      "Ширина": "400 мм",
+      "Глубина": "475 мм",
+      "Высота": "700 мм",
+      "Высота сиденья": "450 мм",
+      "Каркас": "Стальная труба Ø30 мм; порошковое полимерное покрытие.",
+      "Сиденье и спинка": "Берёзовая фанера с эмалью и лаком.",
+      "Вес": "5,7 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.com/d/Goq91WUKZdDCyw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3230-6564-4137-b565-613539616539/_.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-nrabar",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Барный стул НРА",
+    "url": "https://delo-design.com/nrabar",
+    "image": "images/delo/nrabar.jpg",
+    "thumbnail": "images/delo/nrabar.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3164-3336-4132-b837-343137303561/nra_bar.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3164-3336-4132-b837-343137303561/nra_bar.jpg",
+    "sourceCategory": "Стулья и кресла / НРА",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 26500,
+    "sku": null,
+    "dimensions": "Ширина: 400 мм; Глубина: 475 мм; Высота: 1000 мм; Высота сиденья: 750 мм",
+    "materials": [
+      "Сталь",
+      "Берёзовая фанера"
+    ],
+    "description": "Модель серии НРА со стальным каркасом и фанерным сиденьем. Окраска каркаса и сиденья в один цвет.",
+    "specifications": {
+      "Ширина": "400 мм",
+      "Глубина": "475 мм",
+      "Высота": "1000 мм",
+      "Высота сиденья": "750 мм",
+      "Каркас": "Стальная труба Ø30 мм; порошковое полимерное покрытие.",
+      "Сиденье и спинка": "Берёзовая фанера с эмалью и лаком.",
+      "Вес": "7,4 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.com/d/Goq91WUKZdDCyw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3238-6536-4262-b262-336436626138/___66.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-nrabarlow",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Полубарный стул НРА",
+    "url": "https://delo-design.com/nrabarlow",
+    "image": "images/delo/nrabarlow.jpg",
+    "thumbnail": "images/delo/nrabarlow.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3065-3839-4064-b437-663738356531/__16.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3065-3839-4064-b437-663738356531/__16.jpg",
+    "sourceCategory": "Стулья и кресла / НРА",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 26000,
+    "sku": null,
+    "dimensions": "Ширина: 400 мм; Глубина: 475 мм; Высота: 850 мм; Высота сиденья: 600 мм",
+    "materials": [
+      "Сталь",
+      "Берёзовая фанера"
+    ],
+    "description": "Модель серии НРА со стальным каркасом и фанерным сиденьем. Окраска каркаса и сиденья в один цвет.",
+    "specifications": {
+      "Ширина": "400 мм",
+      "Глубина": "475 мм",
+      "Высота": "850 мм",
+      "Высота сиденья": "600 мм",
+      "Каркас": "Стальная труба Ø30 мм; порошковое полимерное покрытие.",
+      "Сиденье и спинка": "Берёзовая фанера с эмалью и лаком.",
+      "Вес": "6,7 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.com/d/Goq91WUKZdDCyw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3466-6339-4465-b539-303866303536/__.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  },
+  {
+    "id": "delo-nrastool",
+    "manufacturer": "Delo",
+    "manufacturerId": "delo",
+    "name": "Табурет НРА",
+    "url": "https://delo-design.com/nrastool",
+    "image": "images/delo/nrastool.jpg",
+    "thumbnail": "images/delo/nrastool.jpg",
+    "images": [
+      "https://static.tildacdn.com/tild3061-6631-4330-a465-646439393862/_.jpg"
+    ],
+    "sourceImage": "https://static.tildacdn.com/tild3061-6631-4330-a465-646439393862/_.jpg",
+    "sourceCategory": "Стулья и кресла / НРА",
+    "section": "Городская мебель",
+    "category": "Кресла и стулья",
+    "price": 15000,
+    "sku": null,
+    "dimensions": "Ширина: 400 мм; Высота: 450 мм; Высота сиденья: 450 мм",
+    "materials": [
+      "Сталь",
+      "Берёзовая фанера"
+    ],
+    "description": "Модель серии НРА со стальным каркасом и фанерным сиденьем. Окраска каркаса и сиденья в один цвет.",
+    "specifications": {
+      "Ширина": "400 мм",
+      "Высота": "450 мм",
+      "Высота сиденья": "450 мм",
+      "Каркас": "Стальная труба Ø30 мм; порошковое полимерное покрытие.",
+      "Сиденье": "Берёзовая фанера с эмалью и лаком.",
+      "Вес": "6,7 кг",
+      "Цвет": "По каталогу RAL Classic"
+    },
+    "files": [
+      {
+        "name": "3D-модель",
+        "url": "https://disk.yandex.com/d/Goq91WUKZdDCyw"
+      },
+      {
+        "name": "Габаритная схема",
+        "url": "https://static.tildacdn.com/tild3461-3661-4237-b935-323733323163/__.jpg"
+      }
+    ],
+    "checkedAt": "2026-11-20"
+  }
+]

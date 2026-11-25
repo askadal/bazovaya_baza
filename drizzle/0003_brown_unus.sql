@@ -1,0 +1,1 @@
+ALTER TABLE `catalog_edits` ADD `reaction_mask` integer DEFAULT 0 NOT NULL;
